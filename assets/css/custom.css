@@ -1,0 +1,78 @@
+.section-shaped .shape-style-1.shape-default {
+    background: linear-gradient(150deg, 
+    #ff8635 15%, #7795f8 70%,
+    #555abf 94%);
+}
+
+.carousel-item img {
+    width: 100%;
+    max-height: 430px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.carousel-caption h5 {
+    color: whitesmoke;
+}
+
+.footer {
+    background: #172b4d;
+}
+
+.img-footer {
+    /* max-width: 17rem; */
+    width: 100%;
+}
+
+hr.title {
+    margin-top: 0px;
+}
+
+hr.news {
+    margin-bottom: 0px;
+}
+
+h6.title {
+    margin-bottom: 2rem;
+}
+
+img.img-thumbnail {
+    width: 100%;
+    /* max-height: 14rem; */
+}
+
+h2.news-list {
+    margin-bottom: 0rem;
+}
+
+.embed-pdf {
+    margin-top: 5rem;
+    min-height: 70rem;
+}
+
+.form-group label {
+    font-size: 1.1rem;
+}
+
+a.btn-danger {
+    color: white;
+}
+
+.button-form {
+    margin-top: 2rem;
+}
+
+.bordered {
+    border: solid 1px red;
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+.card-img-top {
+    height: 10rem;
+}
